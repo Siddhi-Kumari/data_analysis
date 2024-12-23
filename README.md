@@ -39,4 +39,4 @@ To run the code and generate the visualizations:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/repositoryname.git](https://github.com/Siddhi-Kumari/data_analysis.git)
+   git clone https://github.com/Siddhi-Kumari/data_analysis.git
